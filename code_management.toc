@@ -1,9 +1,0 @@
-\contentsline {section}{\numberline {1}Poetry}{1}{section.1}%
-\contentsline {section}{\numberline {2}.env file}{2}{section.2}%
-\contentsline {section}{\numberline {3}Hydra}{4}{section.3}%
-\contentsline {section}{\numberline {4}Code directory}{5}{section.4}%
-\contentsline {section}{\numberline {5}Data directory}{6}{section.5}%
-\contentsline {section}{\numberline {6}Saving data}{7}{section.6}%
-\contentsline {section}{\numberline {7}Naming convention}{7}{section.7}%
-\contentsline {section}{\numberline {8}File formatting on saving}{7}{section.8}%
-\providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 
