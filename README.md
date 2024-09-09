@@ -1,2 +1,0 @@
-# FinHub
-FinHub documentation
