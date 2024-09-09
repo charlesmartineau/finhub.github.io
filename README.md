@@ -1,1 +1,2 @@
-# finhub.github.io
+# FinHub
+FinHub documentation
